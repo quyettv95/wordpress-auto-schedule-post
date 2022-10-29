@@ -9,6 +9,9 @@ Các bước thực hiện:
 - Di chuyển danh sách bài đăng
 - Lấy link và tự động lên lịch các bài viết ở dạng draft.
 
+# Demo
+Youtube Video: https://youtu.be/EzB3aK0pcLs
+
 ## Author
 Quyet Tran
 
